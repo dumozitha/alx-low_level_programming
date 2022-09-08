@@ -4,8 +4,7 @@
 /**
  * main -this wll create a write function
  *
- * Return: 1 
- *
+ * Return: always 1 (error)
  */
 int main(void)
 {
