@@ -2,7 +2,7 @@
 
 /**
  * main - program entry
- * 
+ *
  * Description: program prints both uppercase and lowercase
  *
  * Return: 0 always
