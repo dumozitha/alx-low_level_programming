@@ -7,7 +7,7 @@
  *
  * Description: program prints all single digit numbers
  *
- * return: 0 always
+ * Return: 0 always
  */
 
 int main(void)
