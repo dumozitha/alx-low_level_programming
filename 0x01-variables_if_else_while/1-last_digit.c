@@ -5,7 +5,7 @@
 /**
  * main - program entry
  *
- * Description: this prints the value of n if greater than, is zero or less than
+ * Description: prints the value of n if greater than, is zero or less than
  *
  * Return: 0 always
  */
