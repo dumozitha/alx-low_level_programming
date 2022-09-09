@@ -5,9 +5,9 @@
 /**
  * main - program entry
  *
- * Description: this prints the value of n if its greater than, is zero or less than 6
+ * Description: this prints the value of n if its greater than, is zero or less than
  *
- * Return: 0
+ * Return: 0 always
  */
 int main(void)
 {
@@ -19,11 +19,11 @@ int main(void)
 	/*code*/
 	digit = n % 10;
 
-	if(digit > 5)
+	if (digit > 5)
 		printf("Last digit of %i is %i and is greater than 5\n", n, digit);
-	else if(digit == 0)
+	else if (digit == 0)
 		printf("Last digit of %i is %i and is 0\n", n, digit);
-	else if(digit < 6 && digit != 0)
+	else if (digit < 6 && digit != 0)
 		printf("Last digit of %i is %i and is less than 6 and not 0\n", n, digit);
 	return (0);
 }
