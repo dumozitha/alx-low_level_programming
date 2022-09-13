@@ -1,8 +1,8 @@
  #include"main.h"
 
 /**
- * no main
- *Print_alphabet - now printing in lower case
+ * no mai
+ * print_alphabet - now printing lower case
  *
  * no return
  */
