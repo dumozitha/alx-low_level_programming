@@ -4,7 +4,7 @@
  * _islower - to check if funcitons are lowercase
  * @c: checks input of fuctions
  *
- * return 0 always
+ * return: 0 always
  */
 int _islower(int c)
 {
