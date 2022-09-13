@@ -2,7 +2,7 @@
 
 /**
  * no main
- * Description: now printing in lower case
+ *Print_alphabet - now printing in lower case
  *
  * no return
  */
