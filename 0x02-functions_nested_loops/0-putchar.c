@@ -5,7 +5,7 @@
  *
  * Description: this prints _putchar using putchar
  *
- * Return: always 0 
+ * Return: always 0
  */
 int main(void)
 {
@@ -15,6 +15,5 @@ int main(void)
 	for (ch = 0; ch < 8; ++ch)
 		_putchar(str[ch]);
 	_putchar('\n');
-
 	return(0);
 }
