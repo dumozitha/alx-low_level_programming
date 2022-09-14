@@ -5,7 +5,7 @@
  *
  * @n: takes integer type input for function
  *
- * Return: 1 if is positive and 0 if 0 and -1 
+ * Return: 1 if is positive and 0 if 0 and -1
  */
 
 int print_sign(int n)
