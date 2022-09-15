@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include"main.h"
 
 /**
@@ -8,12 +9,11 @@
 
 void print_numbers(void)
 {
-	int num = 0
+	int n;
 
-		do
-		{
-			_putchar(num + 48);
-			num++;
-		}while (num >= 0 && num <= 9);
-	_putchar('\n');
+	for (n = 48; n < 58; ++n)
+	{
+		putchar(n);
+	}
+	putchar(10);
 }
